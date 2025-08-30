@@ -25,9 +25,29 @@
 ---
 
 ### 🛠️ Languages & Tools  
+### 🛠️ Languages & Tools  
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,js,react,nodejs,express,tailwind,html,css,mysql,mongodb,firebase,git,linux,docker,kubernetes,aws,jenkins" />
+  <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40"/>
 </p>
+
 
 ---
 

@@ -23,8 +23,6 @@
 </p>
 
 ---
-
-### 🛠️ Languages & Tools  
 ### 🛠️ Languages & Tools  
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>

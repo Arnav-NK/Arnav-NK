@@ -12,6 +12,18 @@
 
 ---
 
+### 🏅 Certifications  
+<p align="left">
+  <a href="https://www.credly.com/badges/229988a2-6577-48c0-95c6-bb8a914dfaf0/public_url" target="_blank">
+    <img src="https://images.credly.com/size/200x200/images/229988a2-6577-48c0-95c6-bb8a914dfaf0/badge.png" width="120" height="120"/>
+  </a>
+  <a href="https://www.credly.com/badges/6b137bab-d018-4cc6-9498-fbe847a3da68/public_url" target="_blank">
+    <img src="https://images.credly.com/size/200x200/images/6b137bab-d018-4cc6-9498-fbe847a3da68/badge.png" width="120" height="120"/>
+  </a>
+</p>
+
+---
+
 ### 🤝 Connect With Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/arnav-khond/" target="_blank">
@@ -23,29 +35,11 @@
 </p>
 
 ---
+
 ### 🛠️ Languages & Tools  
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=c" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,js,react,nodejs,express,tailwind,html,css,mysql,mongodb,firebase,git,linux,docker,kubernetes,aws,jenkins" />
 </p>
-
 
 ---
 
